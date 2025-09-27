@@ -1,5 +1,5 @@
 
-# Purpose Built - Fulfillment Extractor
+# Purpose Built - Fulfillment Sheet Data Transformation
 
 Streamlit app to pull a specific **tab** from a shared Google Sheet (orders), merge with **store_master_data**,
 map to the exact schema of **fulfillment_sheet_proto_V1**, and export a ShipStation-ready CSV named
